@@ -7,4 +7,6 @@ chocolate
 cookies
 numbers
 wowwow
+bubble gum
+lollipops
 
