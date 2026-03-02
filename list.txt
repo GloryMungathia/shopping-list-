@@ -1,10 +1,9 @@
-omo 
-ariel
-scouring pad
-morning fresh
-steelwool
-mop
-bucket
-basins
-kitchen towel
+plates
+spoons
+cups
+sufurias
+cooker
+hot pots
+frying pans
+cooking sticks
 
