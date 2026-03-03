@@ -6,4 +6,5 @@ cooker
 hot pots
 frying pans
 cooking sticks
-
+cooking gas
+forks
