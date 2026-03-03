@@ -7,4 +7,5 @@ mop
 bucket
 basins
 kitchen towel
-
+dusters
+water
