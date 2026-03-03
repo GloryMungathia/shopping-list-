@@ -1,12 +1,10 @@
-crisps
-popcorns
-biscuits
-chevda
-sweets
-chocolate
-cookies
-numbers
-wowwow
-bubble gum
-lollipops
-
+plates
+spoons
+cups
+sufurias
+cooker
+hot pots
+frying pans
+cooking sticks
+cooking gas
+forks
